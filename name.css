@@ -1,0 +1,20 @@
+body
+{
+	margin: 0;
+	padding: 10;
+	background-size: cover;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+.nam
+{
+	position: absolute;
+	bottom: 08%;
+	left: 75%;
+	transform: translate(-50%,-50%);
+	width: 330px;
+	height: 190px;
+	padding: 10px 10px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+}
